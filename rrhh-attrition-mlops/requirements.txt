@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+mlflow
+joblib
+fastapi
+uvicorn[standard]
+requests
+dvc
+python-dotenv
+huggingface-hub  # si usarás HF
+bentoml           # si usarás BentoML
