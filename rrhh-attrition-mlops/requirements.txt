@@ -10,3 +10,6 @@ dvc
 python-dotenv
 huggingface-hub  # si usarás HF
 bentoml           # si usarás BentoML
+fastapi
+uvicorn
+pydantic
